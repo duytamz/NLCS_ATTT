@@ -1,0 +1,16 @@
+C:\Users\duyta\OneDrive\Documents\NLCS_CT49101\myProject\bin\Debug\myProject.exe.config
+C:\Users\duyta\OneDrive\Documents\NLCS_CT49101\myProject\bin\Debug\myProject.exe
+C:\Users\duyta\OneDrive\Documents\NLCS_CT49101\myProject\bin\Debug\myProject.pdb
+C:\Users\duyta\OneDrive\Documents\NLCS_CT49101\myProject\obj\Debug\myProject.csproj.AssemblyReference.cache
+C:\Users\duyta\OneDrive\Documents\NLCS_CT49101\myProject\obj\Debug\myProject.csproj.CoreCompileInputs.cache
+C:\Users\duyta\OneDrive\Documents\NLCS_CT49101\myProject\obj\Debug\myProject.exe
+C:\Users\duyta\OneDrive\Documents\NLCS_CT49101\myProject\obj\Debug\myProject.pdb
+C:\Users\duyta\OneDrive\Documents\NLCS_CT49101\myProject\obj\Debug\myProject.exe.config
+C:\Users\duyta\OneDrive\Documents\myProject\bin\Debug\myProject.exe.config
+C:\Users\duyta\OneDrive\Documents\myProject\bin\Debug\myProject.exe
+C:\Users\duyta\OneDrive\Documents\myProject\bin\Debug\myProject.pdb
+C:\Users\duyta\OneDrive\Documents\myProject\obj\Debug\myProject.csproj.AssemblyReference.cache
+C:\Users\duyta\OneDrive\Documents\myProject\obj\Debug\myProject.exe.config
+C:\Users\duyta\OneDrive\Documents\myProject\obj\Debug\myProject.csproj.CoreCompileInputs.cache
+C:\Users\duyta\OneDrive\Documents\myProject\obj\Debug\myProject.exe
+C:\Users\duyta\OneDrive\Documents\myProject\obj\Debug\myProject.pdb

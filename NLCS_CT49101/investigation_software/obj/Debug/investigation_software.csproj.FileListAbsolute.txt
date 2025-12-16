@@ -1,0 +1,15 @@
+C:\Users\duyta\OneDrive\Documents\investigation_software\obj\Debug\investigation_software.csproj.AssemblyReference.cache
+C:\Users\duyta\OneDrive\Documents\investigation_software\obj\Debug\investigation_software.Properties.Resources.resources
+C:\Users\duyta\OneDrive\Documents\investigation_software\obj\Debug\investigation_software.csproj.GenerateResource.cache
+C:\Users\duyta\OneDrive\Documents\investigation_software\obj\Debug\investigation_software.csproj.CoreCompileInputs.cache
+C:\Users\duyta\OneDrive\Documents\investigation_software\bin\Debug\investigation_software.exe.config
+C:\Users\duyta\OneDrive\Documents\investigation_software\bin\Debug\investigation_software.exe
+C:\Users\duyta\OneDrive\Documents\investigation_software\bin\Debug\investigation_software.pdb
+C:\Users\duyta\OneDrive\Documents\investigation_software\obj\Debug\KeyLogger.MainForm.resources
+C:\Users\duyta\OneDrive\Documents\investigation_software\obj\Debug\investigation_software.exe
+C:\Users\duyta\OneDrive\Documents\investigation_software\obj\Debug\investigation_software.pdb
+C:\Users\duyta\OneDrive\Documents\investigation_software\obj\Debug\investigation_software.exe.config
+C:\Users\duyta\OneDrive\Documents\investigation_software\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\duyta\OneDrive\Documents\investigation_software\bin\Debug\System.Reflection.MetadataLoadContext.dll
+C:\Users\duyta\OneDrive\Documents\investigation_software\bin\Debug\System.Collections.Immutable.dll
+C:\Users\duyta\OneDrive\Documents\investigation_software\obj\Debug\investig.A1E78675.Up2Date
